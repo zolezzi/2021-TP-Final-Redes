@@ -31,4 +31,6 @@ Esta es la segunda mitad. Necesito una subred para los 20 host de Sistemas.
 El resto de las ips de este bloque va a ser para asignar a servidores y otros dispositivos.
 
 
+Ahora ya se tienen todos los rangos de ip
+
 Bloque CBA+BAR: 210.21.32.0/24
